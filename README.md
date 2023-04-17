@@ -1,4 +1,4 @@
-# Sistema de login e cadastro de usuários em PHP com MySQL
+#Sistema de login e cadastro de usuários em PHP com MySQL
 
 +Descrição: Este é um sistema de login e cadastro de usuários desenvolvido em PHP com banco de dados MySQL. 
 Com ele, é possível cadastrar novos usuários e autenticar o acesso de usuários existentes. 
